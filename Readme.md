@@ -66,7 +66,11 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Create Database**
 
-    Ensure you have MySQL running and create a database for your project. You can  run database.sql and database.test.sql files in MySQL Workbench  to create a dev and test database respectively. 
+    Ensure you have MySQL running
+    and create a database for your project.
+    You can  run database.sql and 
+    database.test.sql files in MySQL Workbench 
+    to create a dev and test database respectively. 
 
 
 2. **Initialize db**
@@ -98,7 +102,8 @@ Before you begin, ensure you have the following installed on your machine:
  -   npm run test
     ```
 
-    Ensure that your test environment is properly configured.
+    Ensure that your test environment 
+    is properly configured.
 
 2. **Run Specific Test Files**
 
