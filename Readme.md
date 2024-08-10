@@ -49,16 +49,16 @@ Before you begin, ensure you have the following installed on your machine:
     DB_NAME_DEV= twitter_clone
     DB_USER_DEV=your_database_user
     DB_PASS_DEV=your_database_password
-
+    
    #Test database
   
    DB_HOST_TEST=localhost
    DB_NAME_TEST=twitter_clone_test
    DB_USER_TEST=your_database_user
    DB_PASS_TEST=your_database_password
-
-  JWT_SECRET=your_jwt_secret
-  PORT=3000
+    
+   JWT_SECRET=your_jwt_secret
+   PORT=3000
 
   ```
 
