@@ -59,6 +59,7 @@ Before you begin, ensure you have the following installed on your machine:
 
   JWT_SECRET=your_jwt_secret
   PORT=3000
+
   ```
 
 ## Database Setup
